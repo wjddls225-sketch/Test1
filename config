@@ -1,0 +1,7 @@
+# [theme]에 직접 색을 지정하면 하나의 커스텀 테마로 고정되어
+# 시스템 다크 모드를 따르지 않는다. light/dark 각각에 지정한다.
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE72"
